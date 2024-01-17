@@ -1,0 +1,4 @@
+.reqArea {
+	display: flex;
+	flex-wrap: wrap;
+}
